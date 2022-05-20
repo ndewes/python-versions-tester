@@ -1,0 +1,3 @@
+All outputs are logged in this folder. A folder named "Images_date" is created for the images and "test_date" for the tests performed.
+
+Ignore this file.
