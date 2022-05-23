@@ -1,5 +1,5 @@
 # python-versions-tester
-Python testing script for multiple versions with docker.
+Python testing script for multiple versions in docker.
 
 ## Installation
 Simply clone the repository. Of course, Docker is required for the execution.
